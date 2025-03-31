@@ -24,7 +24,7 @@ Explanation
 ---
 Q2 implements the ability to gamma-correct the color of the rendered image and display it correctly on the display device.
 
-Modify render() function: 
+Modify render() function:   
 ![render](https://github.com/user-attachments/assets/91d0dd09-3a3d-4cde-b830-2c4791abbe4b)  
 After calculating the color of each pixel, we apply the gamma correction formula.  
 ![gamma](https://github.com/user-attachments/assets/404ac467-8f07-4482-b72f-3f070d802084)
