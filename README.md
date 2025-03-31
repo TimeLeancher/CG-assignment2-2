@@ -1,5 +1,5 @@
 ## CG_Assignment_2_Q2
-=====
+
 About
 ===
 Gamma Correction   
