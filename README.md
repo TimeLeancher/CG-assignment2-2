@@ -1,4 +1,4 @@
-##CG_Assignment_2_Q2
+## CG_Assignment_2_Q2
 ---
 About
 ===
